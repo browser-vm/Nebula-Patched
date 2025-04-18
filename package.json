@@ -43,7 +43,7 @@
     "astro-icon": "^1.1.5",
     "astro-seo": "^0.8.4",
     "chalk": "^5.4.1",
-    "fastify": "^5.2.0",
+    "fastify": "^5.3.1",
     "gradient-string": "^3.0.0",
     "pg": "^8.13.1",
     "pg-hstore": "^2.3.4",
